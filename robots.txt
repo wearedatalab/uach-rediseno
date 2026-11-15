@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Propuesta de rediseño: no indexar.
